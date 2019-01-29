@@ -1,2 +1,11 @@
 # cocoapods-fix-rnfirebase
-A CocoaPods plugin for hot-patching the react-native-firebase pod
+
+A description of cocoapods-fix-rnfirebase.
+
+## Installation
+
+    $ gem install cocoapods-fix-rnfirebase
+
+## Usage
+
+    $ pod spec rnfirebase POD_NAME
